@@ -50,4 +50,5 @@ This project integrates the OpenAI API with Chainlit to process and respond to v
  - Compile the messages based on the content type.
  - Send the messages to the OpenAI GPT-4 model and retrieve the response.
  - Send the generated response back to the user.
+   
 This project showcases a comprehensive integration of the OpenAI API with Chainlit for handling and processing various types of user inputs, providing a flexible and interactive messaging system.
